@@ -1,5 +1,5 @@
 {
-    "name": "mindscape/raygun4php",
+    "name": "sindaniel/raygun4php",
     "type": "library",
     "description": "Raygun.com client for sending errors and exceptions automatically.",
     "keywords": [
